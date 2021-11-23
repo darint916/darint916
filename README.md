@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darin
-- 👀 Doing research + schematics
+- 👀 Doing research (computer engineer)
 - 📫 How to reach me - discord: AW#0001
 - https://www.linkedin.com/in/darin-tsai/
 - 
