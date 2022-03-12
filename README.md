@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darin
-- 👀 Doing research (computer engineer)
-- 📫 How to reach me - discord: AW#0001
+- 👀 Doing research (Double major computer engineer & Physics)
+- 📫 How to reach me - email: darint916@gmail.com
 - https://www.linkedin.com/in/darin-tsai/
 - 
 <!---
