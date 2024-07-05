@@ -1,4 +1,4 @@
-Hi, I'm Darin Tsai, double major in Computer Engineering, Applied Physics. Past AMD employee and now researcher :sunglasses: :shipit:
+Hi, I'm Darin Tsai, double major in Computer Engineering, Applied Physics. Past AMD employee, and now researcher + Spacex employee:sunglasses: :shipit:
 <hr/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darint916&theme=2077)
